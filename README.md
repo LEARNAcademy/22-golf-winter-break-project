@@ -54,8 +54,11 @@ Process:
   4. Repeat steps 2-3 as needed
   4. Team members will sign off on the updates/ completion of the points given, on their own markdown documents
   
-## Demo:
+# Demo
  - We will be demoing our live portfolios on January 3rd when we get back. Going over each of the listed points and talking about the projects we refactored as well as some feedback we were able to execute on. 
+
+ _________________________________ 
+ _________________________________ 
 
 
   Accountability Document 
