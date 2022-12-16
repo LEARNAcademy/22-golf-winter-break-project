@@ -27,19 +27,23 @@ Every student will be a member of a group of 3 or 4.
   - or a video of the project in operation. 
   #### Refactor Old Projects
     - At this point in the cohort we have built out:   
+      - Treasure Hunt
       - Pig Latin  
       - Color Box  
-      - Tic Tac Toe  
+      - Tic Tac Toe
+      - Dice Roller  
       - Ruby Game  
       - the Portfolio  
       - Wild Life Tracker  
-      - Favorites with Full Stack Rails   
-  - Choose three of projects (any you have made) and refurbish, refactor, and polish them up to be ready to display to your Internship Partners. 
+      - "Favorites" with Full Stack Rails   
+  - Refurbish, refactor, and polish any of these up so they are ready to display on your portfolio. 
 
 
 # Accountability 
-  - To accomplish this project everyone will work on their portfolio and receive feedback from their peers.
-  - Each member of each team is responsible for checking out their team members portfolios, making sure they have everything required, and giving helpful, kind, constructive feedback. 
+To accomplish this project everyone will work on their portfolio and receive feedback from their peers.
+  - Each member of each team is responsible for checking out their team members portfolios, 
+    - making sure they have everything required
+    - giving helpful, kind, constructive feedback
   - Each team member will be filling out their own version of the document below. Copy the document and add your name to it (ie winter-project-austin.md)
   - As team members we want to see each other succeed. Over the next two weeks we will need to take time to look over each other portfolios and give each other feedback. This can only be done effectively with deployed portfolios.  
 
@@ -50,7 +54,12 @@ Process:
   4. Repeat steps 2-3 as needed
   4. Team members will sign off on the updates/ completion of the points given, on their own markdown documents
   
-  
+## Demo:
+ - We will be demoing our live portfolios on January 3rd when we get back. Going over each of the listed points and talking about the projects we refactored as well as some feedback we were able to execute on. 
+
+
+  Accountability Document 
+
   Portfolio Owner:  
   Portfolio Deployment Link: 
  _________________________________ 
