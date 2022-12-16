@@ -15,7 +15,7 @@ Each member of each team is responsible for checking out their team members port
 making sure they have everything required, and giving helpful constructive feedback. Each team member will be filling out their own version of the document below. Copy the document and add your name to it (ie winter-project-austin.md)
 
 
-## Your job is to give feedback on parts of your team members portfolios that you think could be imporved. Feedback should be helpful and kind. 
+## Finishing your Portfolio 
 
 ### Title  
   - This should bring people into your site and let them know exactly what you are presenting to them. 
@@ -25,6 +25,28 @@ making sure they have everything required, and giving helpful constructive feedb
   -  Should be active and preferably open the link in a new tab
 ### 3 Projects Displayed
   - Projects are probably the most important part of the portfolio. In the README.md of each project, explain what technologies went into your project, problems you encountered and solutions you came up with. On your portfolio you should have a taste of your project's description and a link to THE LIVE PROJECT, or a video of the project in operation. 
+### Refactor Old Projects
+  - At this point in the cohort we have built out:   
+    - Pig Latin  
+    - Color Box  
+    - Tic Tac Toe  
+    - Ruby Game  
+    - the Portfolio  
+    - Wild Life Tracker  
+    - Favorites with Full Stack Rails   
+  - Choose three of projects (any you have made) and refurbish, refactor, and polish them up to be ready to display to your Internship Partners. 
+
+
+## Accountability 
+  - As team members we want to see each other succeed. Over the next two weeks we will need to take time to look over each other portfolios and give each other feedback. This can only be done effectively with deployed portfolios.  
+  
+Process: 
+  1. Deploy your portfolio and share the link with your team members, ask for feedback.
+  2. Team members will provide feedback on your portfolio
+  3. Update your portfolio according to the feedback
+  4. Repeat steps 2-3 as needed
+  4. Team members will sign off on the updates/ completion of the points given, on their own markdown documents
+
 
   
   
