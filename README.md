@@ -34,7 +34,7 @@ Every student will be a member of a group of 3 or 4.
       - the Portfolio  
       - Wild Life Tracker  
       - Favorites with Full Stack Rails   
-    - Choose three of projects (any you have made) and refurbish, refactor, and polish them up to be ready to display to your Internship Partners. 
+  - Choose three of projects (any you have made) and refurbish, refactor, and polish them up to be ready to display to your Internship Partners. 
 
 
 # Accountability 
